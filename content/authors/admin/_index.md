@@ -1,6 +1,6 @@
 ---
 role: Professor of Behavioural Science
-avatar_filename: gvt2020id-2.jpg
+avatar_filename: avatar.png
 bio: My research interests include judgment and decision-making, creative
   problem-solving.
 interests:
